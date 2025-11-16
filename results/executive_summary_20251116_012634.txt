@@ -1,0 +1,13 @@
+QUANTUM-RESISTANT CRYPTOGRAPHY FOR IOT - EXECUTIVE SUMMARY
+============================================================
+
+Generated: 2025-11-16 01:26:34
+Total measurements: 45
+Algorithms tested: 6
+Device profiles: 3
+
+KEY RECOMMENDATIONS:
+- Best KEM for constrained IoT: Kyber512
+- Best Signature for constrained IoT: Dilithium2
+- Typical operation time: 0.04 ms
+- Energy per operation: 0.00 mJ
